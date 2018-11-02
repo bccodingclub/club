@@ -1,1 +1,2 @@
-# club
+Welcome to BC Coding Club!
+
